@@ -19,5 +19,5 @@ A student of analytics and development of systems 👩🏻‍💻
  </div><br>
  
 <div align="center">
-  ![Snake animation](https://github.com/olvrmanuela/olvrmanuela/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/olvrmanuela/blob/output/github-contribution-grid-snake.svg)
 </div>
