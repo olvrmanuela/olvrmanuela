@@ -9,6 +9,10 @@ A student of analytics and development of systems 👩🏻‍💻
 ### 📈 My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olvrmanuela&layout=compact)](https://github.com/olvrmanuela/github-readme-stats)
 
+<div style="display: inline_block"><br>
+  <img align="right" width="200" heigth"200" src="https://media.giphy.com/media/vyHxl9Mpeq3Di/giphy.gif" />
+</div>
+
 ### 💻 Technologies and Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,5 +20,6 @@ A student of analytics and development of systems 👩🏻‍💻
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  
  </div><br>
  
