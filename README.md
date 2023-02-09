@@ -1,6 +1,6 @@
 ### Hi everybody, my name is Manuela! 🐇
 
-A student of analytics and development of systems 👩🏻‍💻
+A student of analytics and development of systems 👩🏻‍💻<br>
 📧: a.oliveiramanuela@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-oliveira-848394250/)
