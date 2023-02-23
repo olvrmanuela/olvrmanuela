@@ -5,7 +5,7 @@ A student of analytics and development of systems 👩🏻‍💻<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-oliveira-848394250/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/olvrmanuela/)
-[![LastFm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/olvrmanuela)
+
 
 ### 📈 My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olvrmanuela&layout=compact)](https://github.com/olvrmanuela/github-readme-stats)
