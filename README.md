@@ -1,6 +1,7 @@
 ### Hi everybody, my name is Manuela! 🐇
 
 A student of analytics and development of systems 👩🏻‍💻<br>
+In search of work in the area to acquire experience and growth with Front-End and Back-End development.<br>
 📧: a.oliveiramanuela@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-oliveira-848394250/)
