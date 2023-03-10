@@ -18,6 +18,7 @@ A student of analytics and development of systems 👩🏻‍💻<br>
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <div style="display: inline_block"><br>
   <img align="right" width="200" heigth"200" src="https://media.giphy.com/media/vyHxl9Mpeq3Di/giphy.gif" />
 </div>
