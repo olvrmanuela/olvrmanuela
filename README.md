@@ -1,9 +1,9 @@
-### Hi everybody, my name is Manuela! 🐇
+### Oie, eu sou a Manu! 🐇
 
-A student of analytics and development of systems 👩🏻‍💻<br>
+Tenho 20 anos, sou uma graduada de Análise e Desenvolvimento de Sistemas, com interesse e experiência em desenvolvimento. Meu objetivo é continuar aprendendo e crescendo como desenvolvedor, contribuindo para projetos inovadores e desafiadores na área 👩🏻‍💻<br>
 📧: a.oliveiramanuela@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-oliveira-848394250/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manuela-alzira-oliveira)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/olvrmanuela/)
 
 
