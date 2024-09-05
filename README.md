@@ -11,8 +11,7 @@ Tenho experiência com Desenvolvimento BackEnd e Desenvolvimento RPA! As linguag
 ### 📈 Oque venho estudando
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olvrmanuela&layout=compact)](https://github.com/olvrmanuela/github-readme-stats)
 
-
+<div style="display: inline_block"><br>
   <img align="right" width="200" heigth"200" src="https://media.giphy.com/media/qdxDab2ZKCLq3qI6kO/giphy.gif" />
 </div>
- </div><br>
  
