@@ -7,11 +7,11 @@ Tenho 20 anos, sou uma graduada de Análise e Desenvolvimento de Sistemas, com i
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/olvrmanuela/)
 
 
-### 📈 My stats
+### 📈 Oque venho estudando
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olvrmanuela&layout=compact)](https://github.com/olvrmanuela/github-readme-stats)
 
 
-### 💻 Technologies and Tools
+### 💻 Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
