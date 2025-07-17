@@ -1,7 +1,6 @@
 ### Oie, eu sou a Manu! 🐇
 
-Tenho 20 anos, sou uma graduada de Análise e Desenvolvimento de Sistemas, com interesse e experiência em desenvolvimento. Meu objetivo é continuar aprendendo e crescendo como desenvolvedor, contribuindo para projetos inovadores e desafiadores na área!
-Tenho experiência com Desenvolvimento BackEnd e Desenvolvimento RPA! As linguagens que mais me sinto confortavel em usar são C# e Python. Também tenho vastos conhecimentos em  .NET e Angular!! 👩🏻‍💻<br>
+Tenho 21 anos, graduada em Análise e Desenvolvimento de Sistemas, apaixonada por criar soluções que realmente ajudem pessoas. Trabalho principalmente com C#, .NET, Angular e SQL. Amo resolver problemas difíceis e aprender algo novo todo dia. Estou sempre em busca de me tornar uma dev melhor e ajudar minha equipe a crescer junto comigo.💫☁️👩🏻‍💻<br>
 📧: a.oliveiramanuela@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manuela-alzira-oliveira)
